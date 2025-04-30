@@ -1,2 +1,2 @@
 # youtubeDLcode
-Download code given in description box of YouTube video.
+Download the code provided in the description box of the YouTube video.
